@@ -1,22 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.90f8f20a.css",
-    "main.js": "/static/js/main.6b4fd61a.js",
-    "static/media/cubes.gif": "/static/media/cubes.eed93d8802d5460022f9.gif",
-    "static/media/city.mp4": "/static/media/city.2ea82442fa0ad8e2abd0.mp4",
-    "static/media/animated05-cropped.gif": "/static/media/animated05-cropped.f9266a9c35e8dd9c1042.gif",
-    "static/media/animated02-cropped.gif": "/static/media/animated02-cropped.09660f86b1f418002d8c.gif",
-    "static/media/animated01-cropped.gif": "/static/media/animated01-cropped.f20826d4ebc48599144e.gif",
-    "static/media/caves.mp4": "/static/media/caves.e0cac51329faadc78225.mp4",
-    "static/media/animated03-cropped.gif": "/static/media/animated03-cropped.77660ea34e2bfcbacd2b.gif",
-    "static/media/animated04-cropped.gif": "/static/media/animated04-cropped.d5ec8ab398d8d47171be.gif",
-    "static/media/animated07-cropped.gif": "/static/media/animated07-cropped.f8dbfabf000ff8c152b4.gif",
+    "main.js": "/static/js/main.eeed6866.js",
     "static/media/volcano.mp4": "/static/media/volcano.0a6224cb51cce526f5d8.mp4",
-    "static/media/animated06-cropped.gif": "/static/media/animated06-cropped.d67194c165fd06e79eaf.gif",
+    "static/media/cubes.gif": "/static/media/cubes.48cad34c15dad98453e9.gif",
     "static/media/tesseract-cropped.gif": "/static/media/tesseract-cropped.87f127aa4eef1f8ea66f.gif",
-    "static/media/animated08-cropped.gif": "/static/media/animated08-cropped.8846710d7f085ca8b9f5.gif",
     "static/media/mint-background.png": "/static/media/mint-background.1e26f1399ecef51e04d7.png",
+    "static/media/animated05-cropped.gif": "/static/media/animated05-cropped.71913094065acfe05a63.gif",
+    "static/media/animated03-cropped.gif": "/static/media/animated03-cropped.4dfc3a3c5ac5f97d7a46.gif",
     "static/media/team-01.png": "/static/media/team-01.483d8bd278d1faee730c.png",
+    "static/media/animated04-cropped.gif": "/static/media/animated04-cropped.3be52a2a34dbb3da398d.gif",
+    "static/media/animated02-cropped.gif": "/static/media/animated02-cropped.b93facc45f9a6754c1aa.gif",
+    "static/media/animated01-cropped.gif": "/static/media/animated01-cropped.e3121445908a750a265a.gif",
     "static/media/roadmap-phase01-stone08.png": "/static/media/roadmap-phase01-stone08.474e7c7d42c3d69f648b.png",
     "static/media/roadmap-phase01-stone09.png": "/static/media/roadmap-phase01-stone09.1a2d82ae8d3317d85a2a.png",
     "static/media/roadmap-phase01-stone07.png": "/static/media/roadmap-phase01-stone07.4f8c5aafe81d045d78bb.png",
@@ -37,7 +32,10 @@
     "static/media/team-11.png": "/static/media/team-11.202e016b992ee42cf361.png",
     "static/media/roadmap-phase02-stone04.png": "/static/media/roadmap-phase02-stone04.b8bbbbff879af09ec581.png",
     "static/media/team-04.png": "/static/media/team-04.7dcf4a32d0849f8b148d.png",
+    "static/media/animated08-cropped.gif": "/static/media/animated08-cropped.84d9912329c924acc878.gif",
+    "static/media/animated07-cropped.gif": "/static/media/animated07-cropped.3ba3c02bfceed4659d28.gif",
     "static/media/roadmap-phase02-stone01.png": "/static/media/roadmap-phase02-stone01.191a026f928ff910abdd.png",
+    "static/media/animated06-cropped.gif": "/static/media/animated06-cropped.4c66ee734f15952e33b9.gif",
     "static/media/roadmap-phase02-stone03.png": "/static/media/roadmap-phase02-stone03.e322c3ba61154f663287.png",
     "static/media/roadmap-phase02-stone02.png": "/static/media/roadmap-phase02-stone02.20adc1a7ec08869b0e05.png",
     "static/media/team-10.png": "/static/media/team-10.758d288e8546576657f7.png",
@@ -55,10 +53,10 @@
     "index.html": "/index.html",
     "static/media/tronica-mono-regular.woff2": "/static/media/tronica-mono-regular.54b5b9dc9a27b9559101.woff2",
     "main.90f8f20a.css.map": "/static/css/main.90f8f20a.css.map",
-    "main.6b4fd61a.js.map": "/static/js/main.6b4fd61a.js.map"
+    "main.eeed6866.js.map": "/static/js/main.eeed6866.js.map"
   },
   "entrypoints": [
     "static/css/main.90f8f20a.css",
-    "static/js/main.6b4fd61a.js"
+    "static/js/main.eeed6866.js"
   ]
 }
