@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.6073e3b7.css",
-    "main.js": "/static/js/main.d31c8704.js",
+    "main.css": "/static/css/main.90f8f20a.css",
+    "main.js": "/static/js/main.6b4fd61a.js",
     "static/media/cubes.gif": "/static/media/cubes.eed93d8802d5460022f9.gif",
+    "static/media/city.mp4": "/static/media/city.2ea82442fa0ad8e2abd0.mp4",
     "static/media/animated05-cropped.gif": "/static/media/animated05-cropped.f9266a9c35e8dd9c1042.gif",
     "static/media/animated02-cropped.gif": "/static/media/animated02-cropped.09660f86b1f418002d8c.gif",
     "static/media/animated01-cropped.gif": "/static/media/animated01-cropped.f20826d4ebc48599144e.gif",
+    "static/media/caves.mp4": "/static/media/caves.e0cac51329faadc78225.mp4",
     "static/media/animated03-cropped.gif": "/static/media/animated03-cropped.77660ea34e2bfcbacd2b.gif",
     "static/media/animated04-cropped.gif": "/static/media/animated04-cropped.d5ec8ab398d8d47171be.gif",
     "static/media/animated07-cropped.gif": "/static/media/animated07-cropped.f8dbfabf000ff8c152b4.gif",
+    "static/media/volcano.mp4": "/static/media/volcano.0a6224cb51cce526f5d8.mp4",
     "static/media/animated06-cropped.gif": "/static/media/animated06-cropped.d67194c165fd06e79eaf.gif",
     "static/media/tesseract-cropped.gif": "/static/media/tesseract-cropped.87f127aa4eef1f8ea66f.gif",
     "static/media/animated08-cropped.gif": "/static/media/animated08-cropped.8846710d7f085ca8b9f5.gif",
@@ -46,20 +49,16 @@
     "static/media/archetype-01-stone.png": "/static/media/archetype-01-stone.f6cc481c6e5e6143550c.png",
     "static/media/archetype-03-stone.png": "/static/media/archetype-03-stone.6aa7c64706ccc5ce14ac.png",
     "static/media/roadmap-background.png": "/static/media/roadmap-background.63f463f0edacdbfea8d3.png",
-    "static/media/archetype-02.png": "/static/media/archetype-02.6847b65baac656f06fac.png",
     "static/media/archetype-01.png": "/static/media/archetype-01.a7f4bb9d2c1de7003b22.png",
     "static/media/archetype-02-stone.png": "/static/media/archetype-02-stone.f182eb236dad255772eb.png",
     "static/media/partner-bearx.png": "/static/media/partner-bearx.bc489298abfae19edf15.png",
     "index.html": "/index.html",
     "static/media/tronica-mono-regular.woff2": "/static/media/tronica-mono-regular.54b5b9dc9a27b9559101.woff2",
-    "static/media/volcano.mp4": "/static/media/volcano.6ae85761b693b1efd4f1.mp4",
-    "static/media/caves.mp4": "/static/media/caves.0c29aa2443d4a6833d05.mp4",
-    "static/media/city.mp4": "/static/media/city.df7caa7ae06546c38ab5.mp4",
-    "main.6073e3b7.css.map": "/static/css/main.6073e3b7.css.map",
-    "main.d31c8704.js.map": "/static/js/main.d31c8704.js.map"
+    "main.90f8f20a.css.map": "/static/css/main.90f8f20a.css.map",
+    "main.6b4fd61a.js.map": "/static/js/main.6b4fd61a.js.map"
   },
   "entrypoints": [
-    "static/css/main.6073e3b7.css",
-    "static/js/main.d31c8704.js"
+    "static/css/main.90f8f20a.css",
+    "static/js/main.6b4fd61a.js"
   ]
 }
